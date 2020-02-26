@@ -11,6 +11,10 @@ export default () => (
         margin: "0 5vw ",
       }}
     >
+      <Link to="/" style={{ padding: "0 1vw" }}>
+        Home
+      </Link>
+      |
       <Link to="/blog" style={{ padding: "0 1vw" }}>
         Blog
       </Link>

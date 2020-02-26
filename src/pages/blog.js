@@ -12,7 +12,7 @@ export default () => (
         alignItems: "center",
       }}
     >
-      <h1 style={{ marginLeft: "10vw" }}>Personal Blog</h1>
+      <h1 style={{ marginLeft: "5vw" }}>Personal Blog</h1>
       <NavBar />
     </div>
   </Layout>
